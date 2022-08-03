@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xDillPickle
+- 👋 Hi, I’m Dylan Lim
 - 👀 I’m interested in Coding, Medicical content, Chess, Crypto, Stocks, Investing
 - 🌱 I’m currently learning Introduction to Computer Science
 - 💞️ I’m looking to collaborate on ...
